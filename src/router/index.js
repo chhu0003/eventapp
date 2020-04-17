@@ -6,7 +6,8 @@ import EventCreate from '../views/EventCreate.vue'
 
 Vue.use(VueRouter)
 
-const routes = [{
+const routes = [
+  {
     path: '/',
     name: 'event-list',
     component: EventList
