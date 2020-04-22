@@ -231,6 +231,24 @@
       "date": "",
       "time": "5:00",
       "attendees": []
+    },
+    {
+      "id": 7253650,
+      "user": {
+        "id": "abc123",
+        "name": "Pancake"
+      },
+      "category": "community",
+      "organizer": {
+        "id": "abc123",
+        "name": "Pancake"
+      },
+      "title": "Unicorn",
+      "description": "Finding a unicorn",
+      "location": "Anywhere",
+      "date": "",
+      "time": "",
+      "attendees": []
     }
   ]
 }
